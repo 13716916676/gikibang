@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int a = 1;
+        String s = "ss";
         Log.i("init  @@@ ", "onCreate: ");
     }
 }
